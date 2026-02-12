@@ -1,27 +1,28 @@
 {
-    "userId": "4819",
-    "phoneNr": "+2514819",
-    "projectId": "A1",
-    "language": "en",
-    "calendarType": "INTL",
-    "datePickerType": "INTL",
-    "fields": [
-        {
-            "id": "cd78e96c-d5cf-4982-af33-36bd15090453",
-            "name": "Independence",
-            "A": 0.25,"q": 2.5,
-            "lf": 100,
-            "sf": 0.75,
-            "nf": 10
-        },
-        {
-            "id": "c715d69c-8aa3-44a1-9c1f-8c88810fd362",
-            "name": "ቡቴ እና ፓድሬ",
-            "A": 0.30,
-            "q": 3.0,
-            "lf": 150,
-            "sf": 0.8,
-            "nf": 12
-        }
-    ]
+  "userId": "4819",
+  "phoneNr": "+2514819",
+  "projectId": "A1",
+  "language": "en",
+  "calendarType": "INTL",
+  "datePickerType": "INTL",
+  "fields": [
+    {
+      "id": "cd78e96c-d5cf-4982-af33-36bd15090453",
+      "name": "Independencee",
+      "A": 0.25,
+      "q": 2.5,
+      "lf": 100,
+      "sf": 0.75,
+      "nf": 15
+    },
+    {
+      "id": "c715d69c-8aa3-44a1-9c1f-8c88810fd362",
+      "name": "ቡቴ እና ፓድሬ",
+      "A": 0.3,
+      "q": 3,
+      "lf": 150,
+      "sf": 0.8,
+      "nf": 15
+    }
+  ]
 }
