@@ -1,6 +1,22 @@
 [
   {
-    "date": "2026-02-12T10:04:12.548Z",
-    "status": "API Connection Test"
+    "fieldId": "c715d69c-8aa3-44a1-9c1f-8c88810fd362",
+    "date": "20260208",
+    "startTime": "2026-02-12T08:25:05.696Z",
+    "endTime": "2026-02-12T08:25:08.709Z",
+    "durationSeconds": 2,
+    "targetDepth": 7.6,
+    "status": "completed",
+    "timestamp": "2026-02-12T08:25:08.771Z"
+  },
+  {
+    "fieldId": "cd78e96c-d5cf-4982-af33-36bd15090453",
+    "date": "20260212",
+    "startTime": "2026-02-12T10:28:44.158Z",
+    "endTime": "2026-02-12T10:28:51.258Z",
+    "durationSeconds": 6,
+    "targetDepth": 8.6,
+    "status": "completed",
+    "timestamp": "2026-02-12T10:28:51.361Z"
   }
 ]
