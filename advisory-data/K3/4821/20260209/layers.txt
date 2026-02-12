@@ -1,0 +1,1 @@
+Irrigation map; Vegetation cover; Soil Moisture Root Zone; Leaf Nitrogen; -; Actual Evapotranspiration; Actual Crop Production Cumulative; Actual Crop Production; Soil Water Potential; Moisture Status; Advised Applied Water; Soil Temperature Daily
