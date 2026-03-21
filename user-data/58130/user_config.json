@@ -11,7 +11,7 @@
       "name": "E4 Onion",
       "A": 1.1,
       "q": 28,
-      "type": "furrow",
+      "type": "drip",
       "efficiency": 90
     },
     {
@@ -19,7 +19,7 @@
       "name": "D8 Tomato",
       "A": 5.7,
       "q": 46,
-      "type": "Drip",
+      "type": "drip",
       "efficiency": 90
     },
     {
@@ -27,7 +27,7 @@
       "name": "D2 Maize",
       "A": 7.9,
       "q": 46,
-      "type": "Drip",
+      "type": "drip",
       "efficiency": 90
     }
   ],
