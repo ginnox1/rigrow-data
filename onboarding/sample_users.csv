@@ -1,0 +1,7 @@
+userId,phoneNr,projectId,language,calendarType,datePickerType,fieldName,A,q,type,efficiency,lf,sf,nf
+1001,+251911000001,A1,en,INTL,INTL,Block A Tomato,2.5,30,Drip,90,,,
+1001,+251911000001,A1,en,INTL,INTL,Block B Onion,1.8,25,Drip,85,,,
+1002,+251922000002,A1,am,ETH,ETH,Main Field,0.5,3,,,,0.75,15
+1003,+251933000003,B2,en,INTL,INTL,North Plot,3.0,40,Drip,90,,,
+1003,+251933000003,B2,en,INTL,INTL,South Plot,4.2,46,Drip,90,,,
+1003,+251933000003,B2,en,INTL,INTL,East Garden,0.3,2.5,,,120,0.8,15
