@@ -1,19 +1,19 @@
 {
-    "userId": "4820",
-    "phoneNr": "+251988486156",
-    "projectId": "A1",
-    "language": "en",
-    "calendarType": "INTL",
-    "datePickerType": "INTL",
-    "fields": [
-        {
-            "id": "2b61a1b6-9801-4e48-9d05-1c9d12549424",
-            "name": "ቱሌር",
-            "A":0.05,
-            "q": 2.2,
-            "lf": 120,
-            "sf": 0.7,
-            "nf": 15
-        }
-    ]
+  "userId": "4820",
+  "phoneNr": "+251988486156",
+  "projectId": "A1",
+  "language": "am",
+  "calendarType": "INTL",
+  "datePickerType": "INTL",
+  "fields": [
+    {
+      "id": "2b61a1b6-9801-4e48-9d05-1c9d12549424",
+      "name": "ቱሌር",
+      "A": 0.05,
+      "q": 2.2,
+      "lf": 120,
+      "sf": 0.7,
+      "nf": 15
+    }
+  ]
 }
