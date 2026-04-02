@@ -31,5 +31,17 @@
       "efficiency": 90
     }
   ],
-  "signatureString": "SIG_1774183926425_zycvpc"
+  "signatureString": "SIG_1774183926425_zycvpc",
+  "boundDevices": [
+    {
+      "signature": "SIG_1774183926425_zycvpc",
+      "phoneNr": "0967897901",
+      "boundAt": "2026-04-02T11:33:27.042Z"
+    },
+    {
+      "signature": "SIG_1775129607042_pbv25",
+      "phoneNr": "0912600845",
+      "boundAt": "2026-04-02T11:33:27.042Z"
+    }
+  ]
 }
