@@ -1,0 +1,30 @@
+{
+  "b905_gps01": {
+    "name": "teff",
+    "date": "2026-04-25",
+    "soil_temperature": 17.78,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0.3,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 0.6
+  },
+  "b905_gps02": {
+    "name": "barley",
+    "date": "2026-04-25",
+    "soil_temperature": 17.19,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 0
+  }
+}
