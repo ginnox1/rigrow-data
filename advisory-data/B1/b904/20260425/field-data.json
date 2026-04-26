@@ -1,0 +1,30 @@
+{
+  "b904_gps01": {
+    "name": "onion",
+    "date": "2026-04-25",
+    "soil_temperature": 17.71,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0.1,
+    "precipitation_fcdp5": 4.1,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 0
+  },
+  "b904_gps02": {
+    "name": "Garlic",
+    "date": "2026-04-25",
+    "soil_temperature": 17.22,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 5.85,
+    "precipitation_fcdp6": 0.3,
+    "precipitation_fcdp7": 0
+  }
+}
