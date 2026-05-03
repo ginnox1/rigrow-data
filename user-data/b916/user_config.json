@@ -14,6 +14,17 @@
           null
         ]
       ]
+    },
+    {
+      "id": "b916_gps02",
+      "name": "E9-wheat",
+      "A": 5,
+      "polygon": [
+        [
+          null,
+          null
+        ]
+      ]
     }
   ]
 }
