@@ -36,6 +36,17 @@
           null
         ]
       ]
+    },
+    {
+      "id": "b916_gps04",
+      "name": "E2-barley",
+      "A": 1,
+      "polygon": [
+        [
+          null,
+          null
+        ]
+      ]
     }
   ],
   "boundDevices": [
