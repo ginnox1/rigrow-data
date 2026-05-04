@@ -43,6 +43,11 @@
       "signature": "SIG_1777882140774_kdc01r",
       "phoneNr": "+251912610645",
       "boundAt": "2026-05-04T08:09:00.774Z"
+    },
+    {
+      "signature": "SIG_1777882945948_x7vhn",
+      "phoneNr": "+251912610645",
+      "boundAt": "2026-05-04T08:22:25.948Z"
     }
   ],
   "signatureString": "SIG_1777882140774_kdc01r"
