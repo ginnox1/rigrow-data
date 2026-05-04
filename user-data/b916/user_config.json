@@ -15,5 +15,13 @@
         ]
       ]
     }
-  ]
+  ],
+  "boundDevices": [
+    {
+      "signature": "SIG_1777906458056_cf7lsj",
+      "phoneNr": "+251912610645",
+      "boundAt": "2026-05-04T14:54:18.056Z"
+    }
+  ],
+  "signatureString": "SIG_1777906458056_cf7lsj"
 }
