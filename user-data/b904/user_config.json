@@ -36,6 +36,17 @@
           null
         ]
       ]
+    },
+    {
+      "id": "b904_gps04",
+      "name": "tomato",
+      "A": 4,
+      "polygon": [
+        [
+          null,
+          null
+        ]
+      ]
     }
   ]
 }
