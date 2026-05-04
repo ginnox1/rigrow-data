@@ -5,13 +5,13 @@
   "language": "am",
   "fields": [
     {
-      "id": "b916_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b916_gps01",
+      "name": "J7-potato",
+      "A": 20,
       "polygon": [
         [
-          8.97366,
-          38.76273
+          35.746089,
+          7.430811
         ]
       ]
     }
