@@ -5,13 +5,13 @@
   "language": "om",
   "fields": [
     {
-      "id": "b916_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b916_gps01",
+      "name": "cabbage",
+      "A": 2,
       "polygon": [
         [
-          7.00733,
-          39.96942
+          37.421442,
+          9.851538
         ]
       ]
     }
