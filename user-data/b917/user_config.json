@@ -5,13 +5,13 @@
   "language": "am",
   "fields": [
     {
-      "id": "b917_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b917_gps01",
+      "name": "lentils",
+      "A": 5,
       "polygon": [
         [
-          8.97366,
-          38.76273
+          38.317756,
+          9.402421
         ]
       ]
     }
