@@ -15,13 +15,5 @@
         ]
       ]
     }
-  ],
-  "boundDevices": [
-    {
-      "signature": "SIG_1778173396757_zhx72i",
-      "phoneNr": "+251922363007",
-      "boundAt": "2026-05-07T17:03:16.757Z"
-    }
-  ],
-  "signatureString": "SIG_1778173396757_zhx72i"
+  ]
 }
