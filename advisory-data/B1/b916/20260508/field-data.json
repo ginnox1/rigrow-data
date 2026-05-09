@@ -1,0 +1,72 @@
+{
+  "b916_gps01": {
+    "name": "cabbage",
+    "date": "2026-05-08",
+    "soil_temperature": 18.11,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 19.25
+  },
+  "b916_gps02": {
+    "name": "J7-potato",
+    "date": "2026-05-08",
+    "soil_temperature": 17.51,
+    "soil_moisture_root_zone": 0.189,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0.8,
+    "precipitation_fcdp4": 8.8,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 15
+  },
+  "b916_gps03": {
+    "name": "Z3-barley",
+    "date": "2026-05-08",
+    "soil_temperature": 18.9,
+    "soil_moisture_root_zone": 0.145,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0.6,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0.1,
+    "precipitation_fcdp7": 11.15
+  },
+  "b916_gps04": {
+    "name": "Z3-barley",
+    "date": "2026-05-08",
+    "soil_temperature": 18.9,
+    "soil_moisture_root_zone": 0.145,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0.6,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0.1,
+    "precipitation_fcdp7": 11.15
+  },
+  "b916_gps05": {
+    "name": "cabbage",
+    "date": "2026-05-08",
+    "soil_temperature": 18.11,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 19.25
+  }
+}
