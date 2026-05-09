@@ -1,0 +1,72 @@
+{
+  "b917_gps01": {
+    "name": "lentils",
+    "date": "2026-05-08",
+    "soil_temperature": 17.98,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0.5,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0.3,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 20.55
+  },
+  "b917_gps02": {
+    "name": "lentils",
+    "date": "2026-05-08",
+    "soil_temperature": 17.98,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0.5,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0.3,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 20.55
+  },
+  "b917_gps03": {
+    "name": "E-lentils",
+    "date": "2026-05-08",
+    "soil_temperature": 18.28,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 1.1,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0.6,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 21.1
+  },
+  "b917_gps04": {
+    "name": "E-teff",
+    "date": "2026-05-08",
+    "soil_temperature": 17.97,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 20.25
+  },
+  "b917_gps05": {
+    "name": "F-sweet potato",
+    "date": "2026-05-08",
+    "soil_temperature": 17.98,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0.6,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 18.45
+  }
+}
