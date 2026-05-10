@@ -5,23 +5,15 @@
   "language": "am",
   "fields": [
     {
-      "id": "b918_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b918_gps01",
+      "name": "U4-garlic",
+      "A": 93,
       "polygon": [
         [
-          8.98225,
-          38.83839
+          35.341444,
+          7.217432
         ]
       ]
     }
-  ],
-  "boundDevices": [
-    {
-      "signature": "SIG_1778390260838_5pgx87",
-      "phoneNr": "+251912610645",
-      "boundAt": "2026-05-10T05:17:40.838Z"
-    }
-  ],
-  "signatureString": "SIG_1778390260838_5pgx87"
+  ]
 }
