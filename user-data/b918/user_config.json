@@ -5,13 +5,13 @@
   "language": "en",
   "fields": [
     {
-      "id": "b918_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b918_gps01",
+      "name": "E-kale",
+      "A": 2,
       "polygon": [
         [
-          9.33257,
-          40.18206
+          37.980251,
+          9.105625
         ]
       ]
     }
