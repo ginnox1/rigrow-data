@@ -5,13 +5,13 @@
   "language": "am",
   "fields": [
     {
-      "id": "b918_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b918_gps01",
+      "name": "M6-onion",
+      "A": 11,
       "polygon": [
         [
-          8.98225,
-          38.83839
+          35.4092,
+          7.372936
         ]
       ]
     }
