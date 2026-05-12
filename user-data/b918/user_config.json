@@ -49,5 +49,13 @@
         ]
       ]
     }
-  ]
+  ],
+  "boundDevices": [
+    {
+      "signature": "SIG_1778563508693_nlyn2w",
+      "phoneNr": "+251912610645",
+      "boundAt": "2026-05-12T05:25:08.693Z"
+    }
+  ],
+  "signatureString": "SIG_1778563508693_nlyn2w"
 }
