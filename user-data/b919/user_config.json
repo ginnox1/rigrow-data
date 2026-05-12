@@ -5,13 +5,13 @@
   "language": "am",
   "fields": [
     {
-      "id": "b919_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b919_gps01",
+      "name": "barley",
+      "A": 2,
       "polygon": [
         [
-          10.59692,
-          34.78365
+          36.811989,
+          8.268198
         ]
       ]
     }
