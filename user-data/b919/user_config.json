@@ -1,0 +1,19 @@
+{
+  "userId": "b919",
+  "phoneNr": "+251988486156",
+  "projectId": "B1",
+  "language": "am",
+  "fields": [
+    {
+      "id": "b919_gps00",
+      "name": "No Field",
+      "A": 0,
+      "polygon": [
+        [
+          10.59692,
+          34.78365
+        ]
+      ]
+    }
+  ]
+}
