@@ -1,0 +1,16 @@
+{
+  "b919_gps01": {
+    "name": "barley",
+    "date": "2026-05-16",
+    "soil_temperature": 17.82,
+    "soil_moisture_root_zone": 0.358,
+    "precipitation_fcdp0": 1.2,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 0
+  }
+}
