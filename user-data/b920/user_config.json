@@ -5,13 +5,13 @@
   "language": "en",
   "fields": [
     {
-      "id": "b920_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b920_gps01",
+      "name": "maize",
+      "A": 2,
       "polygon": [
         [
-          6.65218,
-          38.18998
+          38.078756,
+          3.57108
         ]
       ]
     }
