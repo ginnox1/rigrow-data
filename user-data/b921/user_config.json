@@ -5,13 +5,13 @@
   "language": "en",
   "fields": [
     {
-      "id": "b921_gps00",
-      "name": "No Field",
-      "A": 0,
+      "id": "b921_gps01",
+      "name": "broccoli",
+      "A": 5,
       "polygon": [
         [
-          9.59132,
-          41.85663
+          38.986205,
+          8.057604
         ]
       ]
     }
