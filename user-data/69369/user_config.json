@@ -5,7 +5,40 @@
   "language": "en",
   "calendarType": "INTL",
   "datePickerType": "INTL",
-  "fields": [],
+  "fields": [
+    {
+      "id": "b8a989b7-0e0b-41fd-878a-a61d04fc7ab7",
+      "name": "P 7 Arc D",
+      "A": 6.53,
+      "q": 28,
+      "type": "Center Pivot",
+      "efficiency": 80
+     },
+     {
+      "id": "27ee250d-786d-4832-aef1-699e275334af",
+      "name": "P 7 Arc C",
+      "A": 7.24,
+      "q": 28,
+      "type": "Center Pivot",
+      "efficiency": 80
+     },
+     {
+      "id": "6735def1-846f-4bff-9966-788fe2aac27f",
+      "name": "P 4 Arc D",
+      "A": 7.79,
+      "q": 28,
+      "type": "Center Pivot",
+      "efficiency": 80
+     },
+    {
+      "id": "f5a61f2c-44bb-442a-b12c-d6b7923fbee6",
+      "name": "P 5 Arc D",
+      "A": 7.25,
+      "q": 28,
+      "type": "Center Pivot",
+      "efficiency": 80
+     }
+  ],
   "boundDevices": [
     {
       "signature": "SIG_1779552981069_ekw8vp",
