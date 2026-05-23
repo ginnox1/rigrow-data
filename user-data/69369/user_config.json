@@ -5,4 +5,13 @@
   "language": "en",
   "calendarType": "INTL",
   "datePickerType": "INTL",
-  "fields": []}
+  "fields": [],
+  "boundDevices": [
+    {
+      "signature": "SIG_1779552981069_ekw8vp",
+      "phoneNr": "+251912600845",
+      "boundAt": "2026-05-23T16:16:21.069Z"
+    }
+  ],
+  "signatureString": "SIG_1779552981069_ekw8vp"
+}
