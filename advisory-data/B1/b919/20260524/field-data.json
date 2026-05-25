@@ -1,0 +1,30 @@
+{
+  "b919_gps01": {
+    "name": "barley",
+    "date": "2026-05-24",
+    "soil_temperature": 19.36,
+    "soil_moisture_root_zone": 0.295,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 0
+  },
+  "b919_gps02": {
+    "name": "onion",
+    "date": "2026-05-24",
+    "soil_temperature": 21.47,
+    "soil_moisture_root_zone": 0,
+    "precipitation_fcdp0": 0,
+    "precipitation_fcdp1": 0,
+    "precipitation_fcdp2": 0,
+    "precipitation_fcdp3": 0,
+    "precipitation_fcdp4": 0,
+    "precipitation_fcdp5": 0,
+    "precipitation_fcdp6": 0,
+    "precipitation_fcdp7": 0
+  }
+}
