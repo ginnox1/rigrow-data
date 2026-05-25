@@ -49,6 +49,11 @@
       "signature": "SIG_1779688109413_6qoso",
       "phoneNr": "+251913016837",
       "boundAt": "2026-05-25T05:48:29.413Z"
+    },
+    {
+      "signature": "SIG_1779698949728_vs57al",
+      "phoneNr": "+251913931282",
+      "boundAt": "2026-05-25T08:49:09.728Z"
     }
   ],
   "signatureString": "SIG_1779552981069_ekw8vp"
