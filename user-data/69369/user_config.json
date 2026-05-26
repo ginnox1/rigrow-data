@@ -64,6 +64,11 @@
       "signature": "SIG_1779771983013_zl8sjh",
       "phoneNr": "+251919457740",
       "boundAt": "2026-05-26T05:06:23.013Z"
+    },
+    {
+      "signature": "SIG_1779772411118_inddna",
+      "phoneNr": "+251913251266",
+      "boundAt": "2026-05-26T05:13:31.118Z"
     }
   ],
   "signatureString": "SIG_1779552981069_ekw8vp"
