@@ -89,6 +89,11 @@
       "signature": "SIG_1779895854689_z6a2ar",
       "phoneNr": "+251912600845",
       "boundAt": "2026-05-27T15:30:54.689Z"
+    },
+    {
+      "signature": "SIG_1779963318441_nxzmz",
+      "phoneNr": "+251912600845",
+      "boundAt": "2026-05-28T10:15:18.442Z"
     }
   ],
   "signatureString": "SIG_1779552981069_ekw8vp"
