@@ -55,6 +55,11 @@
       "signature": "SIG_1778563508693_nlyn2w",
       "phoneNr": "+251912610645",
       "boundAt": "2026-05-12T05:25:08.693Z"
+    },
+    {
+      "signature": "SIG_1779992544808_v1rmq9",
+      "phoneNr": "+251912610645",
+      "boundAt": "2026-05-28T18:22:24.808Z"
     }
   ],
   "signatureString": "SIG_1778563508693_nlyn2w"
