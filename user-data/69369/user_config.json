@@ -59,26 +59,6 @@
       "signature": "SIG_1779717208132_qbivl",
       "phoneNr": "+251931404843",
       "boundAt": "2026-05-25T13:53:28.132Z"
-    },
-    {
-      "signature": "SIG_1780903664426_yei2rg",
-      "phoneNr": "+251912600845",
-      "boundAt": "2026-06-08T07:27:44.426Z"
-    },
-    {
-      "signature": "SIG_1780992952390_nxmir",
-      "phoneNr": "+251912600845",
-      "boundAt": "2026-06-09T08:15:52.390Z"
-    },
-    {
-      "signature": "SIG_1783339482447_1d63n6",
-      "phoneNr": "+251912600845",
-      "boundAt": "2026-07-06T12:04:42.447Z"
-    },
-    {
-      "signature": "SIG_1783457568715_duaxg",
-      "phoneNr": "+251912600845",
-      "boundAt": "2026-07-07T20:52:48.715Z"
     }
   ],
   "signatureString": "SIG_1779552981069_ekw8vp"
